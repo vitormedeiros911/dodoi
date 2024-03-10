@@ -1,0 +1,3 @@
+[submodule "backend/dodoi-api-gateway"]
+	path = backend/dodoi-api-gateway
+	url = https://github.com/vitormedeiros911/dodoi-api-gateway.git
