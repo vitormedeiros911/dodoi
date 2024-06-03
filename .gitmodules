@@ -4,3 +4,6 @@
 [submodule "backend/dodoi-produto-service"]
 	path = backend/dodoi-produto-service
 	url = https://github.com/vitormedeiros911/dodoi-produto-service.git
+[submodule "backend/dodoi-farmacia-service"]
+	path = backend/dodoi-farmacia-service
+	url = https://github.com/vitormedeiros911/dodoi-farmacia-service.git
