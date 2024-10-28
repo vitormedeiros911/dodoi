@@ -16,3 +16,6 @@
 [submodule "backend/dodoi-pedido-service"]
 	path = backend/dodoi-pedido-service
 	url = https://github.com/vitormedeiros911/dodoi-pedido-service.git
+[submodule "mobile/dodoi-app-comprador"]
+	path = mobile/dodoi-app-comprador
+	url = https://github.com/vitormedeiros911/dodoi-app-comprador.git
