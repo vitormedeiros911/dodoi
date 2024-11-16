@@ -10,9 +10,6 @@
 [submodule "backend/dodoi-usuario-service"]
 	path = backend/dodoi-usuario-service
 	url = https://github.com/vitormedeiros911/dodoi-usuario-service.git
-[submodule "backend/dodoi-carrinho-service"]
-	path = backend/dodoi-carrinho-service
-	url = https://github.com/vitormedeiros911/dodoi-carrinho-service.git
 [submodule "backend/dodoi-pedido-service"]
 	path = backend/dodoi-pedido-service
 	url = https://github.com/vitormedeiros911/dodoi-pedido-service.git
