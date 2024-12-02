@@ -22,3 +22,6 @@
 [submodule "mobile/dodoi-app-farmacia"]
 	path = mobile/dodoi-app-farmacia
 	url = https://github.com/vitormedeiros911/dodoi-app-farmacia.git
+[submodule "backend/dodoi-notificacao-service"]
+	path = backend/dodoi-notificacao-service
+	url = https://github.com/vitormedeiros911/dodoi-notificacao-service.git
